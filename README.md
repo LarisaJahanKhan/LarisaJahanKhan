@@ -5,7 +5,7 @@
 
 ---
 
-![Larisa's Banner](./img/banner_animated.png)
+![Larisa's Banner](./img/banner_ghiblified.png)
 
 ---
 
