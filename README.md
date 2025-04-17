@@ -5,7 +5,8 @@
 
 ---
 
-![Larisa's Banner](./img/banner_ghiblified.png)
+<img src="./img/banner_ghiblified_landscape.png" alt="Larisa's Banner" style="object-fit:cover;" />
+
 
 ---
 
