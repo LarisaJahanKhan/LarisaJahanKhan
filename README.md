@@ -5,7 +5,7 @@
 
 ---
 
-<img src="./img/banner_ghiblified_landscape.png" alt="Larisa's Banner" style="object-fit:cover;" />
+
 
 
 ---
